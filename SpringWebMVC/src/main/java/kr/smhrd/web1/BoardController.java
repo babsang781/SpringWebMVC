@@ -9,7 +9,7 @@ public class BoardController {
 	@RequestMapping("/boardList.do")
 	public String boardList() {
 		 
-		return "boardList";
+		return "boardList"; //test2
 	}
 
 }
